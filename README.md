@@ -1,2 +1,2 @@
 # R-GoogleChart-Javascript
-Uses R to produce google charts and creates js file to use within html.
+Uses R to produce google charts data table while also adding responsive resizing to the chart.
