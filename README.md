@@ -3,7 +3,11 @@ Uses R to produce google charts data table while also adding responsive resizing
 
 # Installation
 
-To use this function googleVis must be pre-installed. After that simply run the source the .R file to add function to working directory.
+Run
+
+source_url("https://raw.githubusercontent.com/amwill04/R-GoogleChart-Javascript/master/R/GoogleChart_js.R")
+
+To use this function googleVis must be pre-installed.
 
 # Use
 
